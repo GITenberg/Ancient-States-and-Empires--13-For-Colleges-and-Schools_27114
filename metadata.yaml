@@ -1,0 +1,26 @@
+_repo: Ancient-States-and-Empires--13-For-Colleges-and-Schools_27114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lord, John
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '653'
+    url: http://www.gutenberg.org/2009/agents/653
+description: ''
+gutenberg_issued: '2008-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History, Ancient'
+title: "Ancient States and Empires\r\nFor Colleges and Schools"
+url: http://www.gutenberg.org/ebooks/27114
